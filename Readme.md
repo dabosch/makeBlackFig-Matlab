@@ -15,3 +15,5 @@ There also is a makeWhiteFig script, which basically just calls
 `> makeBlackFig(fig,'w','k');`.
 
 Copyright (c) 2021 Dario Bosch <kontakt(at)dariobosch(dot)de>
+
+This project on Matlab file exchange: [![View makeBlackFig on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://de.mathworks.com/matlabcentral/fileexchange/90777-makeblackfig)
